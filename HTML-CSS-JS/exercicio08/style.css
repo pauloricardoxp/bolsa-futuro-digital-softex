@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    color: #333;
+}
+
+label{
+    font-weight: bold;
+}
+
+button{
+    background-color: lab(68.93% -64.22 44.87 / 0.829);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color:rgb(43, 238, 69) ;
+}
+
+#resultado{
+    font-weight: bolder;
+}
+
+.verde{
+    background-color: green;
+}
+
+.vermelho{
+    background-color: red;
+}

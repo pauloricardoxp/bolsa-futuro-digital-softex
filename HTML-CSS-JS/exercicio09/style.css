@@ -1,0 +1,40 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+h1{
+    color: #333;
+}
+
+label{
+    font-weight: bold;
+}
+
+button{
+    background-color: rgba(4, 4, 138, 0.877);
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+
+}
+
+button:hover{
+    background-color: rgb(52, 52, 240);
+}
+
+#resultado{
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.negrito{
+    font-weight: bold;
+}
+
