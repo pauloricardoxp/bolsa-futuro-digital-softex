@@ -5,7 +5,7 @@ Este repositório contém meus exercícios e projetos desenvolvidos durante o pr
 ## 📚 Tecnologias e Ferramentas
 - HTML5  
 - CSS3  
-- JavaScript (ES6+)  
+- JavaScript 
 - React  
 - Git e GitHub  
 
