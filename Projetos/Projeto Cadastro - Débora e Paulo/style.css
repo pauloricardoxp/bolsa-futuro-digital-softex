@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+div{
+    margin-bottom: 30px;
+
+}
+
+button{
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    padding: 6px px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+#tabela {
+  border-collapse: collapse; 
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+#tabela th, #tabela td {
+  border: 1px solid #333; 
+  padding: 8px 12px; 
+  text-align: center; 
+}
+
+#tabela thead {
+  background-color: #000000; 
+  color: white; 
+}
+
+#tabela tbody tr:nth-child(even) {
+  background-color: #f2f2f2; 
+}
+
+#tabela tbody tr:hover {
+  background-color: #ddd;
+}
+
+.aprov {
+    color: green;
+    font-weight: bold;
+}
+
+.recup {
+    color: orange;
+    font-weight: bold;
+}
+
+.repro {
+    color: red;
+    font-weight: bold;
+}
